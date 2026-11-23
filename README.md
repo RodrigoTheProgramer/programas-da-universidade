@@ -1,0 +1,8 @@
+# Sistema de Cadastro de Pessoas
+
+## Descrição
+
+Aplicativo desenvolvido em Python que funciona diretamente no terminal e permite realizar o cadastro e gerenciamento de pessoas. 
+O sistema possui funcionalidades para cadastrar pessoas com nome, idade e telefone, listar os registros, 
+pesquisar pessoas pelo nome e consultar a quantidade total de cadastros.
+O projeto foi desenvolvido com o objetivo de aplicar conceitos fundamentais da programação em Python, principalmente a utilização de funções.
